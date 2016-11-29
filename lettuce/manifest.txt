@@ -1,0 +1,6 @@
+Name: com/newrelic/instrumentation/lettuce
+Implementation-Title: com.newrelic.instrumentation.lettuce
+Implementation-Vendor: Glenn Nethercutt
+Implementation-Vendor-Id: Field Instrumentation
+Implementation-Version: 1.0
+
